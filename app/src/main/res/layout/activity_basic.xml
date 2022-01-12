@@ -14,13 +14,21 @@
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent">
-        <Button
-            android:id="@+id/button1"
+        <TextView
+            android:id="@+id/sample_text_1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/button_basic" />
+            android:text="Hello World!" />
+        <TextView
+            android:id="@+id/sample_text_2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Hello World!" />
+        <TextView
+            android:id="@+id/sample_text_3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Hello World!" />
     </LinearLayout>
-
-
 
 </androidx.constraintlayout.widget.ConstraintLayout>

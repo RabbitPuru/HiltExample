@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">HiltExample</string>
+    <string name="button_basic">Basic Hilt Example</string>
 </resources>
