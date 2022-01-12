@@ -46,6 +46,7 @@ dependencies {
     implementation 'androidx.fragment:fragment-ktx:1.4.0'
 
     implementation "com.google.dagger:hilt-android:$hiltversion"
+    implementation 'androidx.legacy:legacy-support-v4:1.0.0'
     kapt "com.google.dagger:hilt-android-compiler:$hiltversion"
     kapt "androidx.hilt:hilt-compiler:$androidxhiltversion"
 

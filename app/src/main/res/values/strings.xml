@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">HiltExample</string>
     <string name="button_basic">Basic Hilt Example</string>
+    <string name="button_fragment">Fragment Hilt Example</string>
+    <string name="fragment_example_result_text">%d : %d Player%d Wins!</string>
+    <string name="fragment_example_action">Go!</string>
 </resources>
